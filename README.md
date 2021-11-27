@@ -3,7 +3,7 @@
 Avaliable for Comission.
 
 ## **Join DemeterCraft:**<br>
-DemeterCraft is an advanced Op Prisons server developed for **`Minecraft: Bedrock Edition`**<br>
+DemeterCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**<br>
 Support us below:
 
 <a href="https://discord.gg/kFacgS29ay">
