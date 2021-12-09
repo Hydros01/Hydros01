@@ -33,9 +33,9 @@ For inquries, you can reach me via:
 
 ## **Profile Views:**<br>
 
-Everytime someone new visits my ReadMe Profile: (EST || 14/09/21)
+Everytime someone new visits my ReadMe Profile:
 
-![](https://visitor-badge.glitch.me/badge?page_id=atlzz.atlzz)
+![](https://visitor-badge.glitch.me/badge?page_id=wrathxz.wrathxz)
 
 <br />
 
