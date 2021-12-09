@@ -40,4 +40,4 @@ Everytime someone new visits my ReadMe Profile: (EST || 14/09/21)
 <br />
 
 ## My Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=atlzz&show_icons=true&theme=gotham" alt="atlzz" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=atlzz&show_icons=true&theme=gotham" alt="wrathxz" />
