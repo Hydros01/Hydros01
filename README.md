@@ -1,22 +1,16 @@
-# Hey, I'm "wrath. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>
-**Owner and Head Developer | @DemeterCraft**<br>
+# Hey, I'm "Hydro. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>
+**Owner and Head Developer | @SentryCraft**<br>
 Avaliable for Comission.
 
-## **Join DemeterCraft:**<br>
-DemeterCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**<br>
+## **Join SentryCraft:**<br>
+SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**<br>
 Support us below:
 
-<a href="https://discord.gg/kFacgS29ay">
-  <img align="left" alt="DemeterCraft Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/kaNqKenb2r">
+  <img align="left" alt="SentryCraft Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/DemeterCraft">
-  <img align="left" alt="DemeterCraft | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://paypal.com/DemeterCraft">
-  <img align="left" alt="DemeterCraft | Paypal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
-</a>
-<a href="https://github.com/DemeterCraft">
-  <img align="left" alt="DemeterCraft | Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+<a href="https://twitter.com/SentryCraft">
+  <img align="left" alt="SentryCraft | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br><br>
 
@@ -27,17 +21,17 @@ I'm a self-taught PHP developer, and I started sometime in 2020. Since then, I'v
 
 For inquries, you can reach me via:
 
-- [email](mailto:craftdemeter@gmail.com)
-- [![chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/kFacgS29ay)
+- [email](mailto:atlzstone@gmail.com)
+- [![chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/kaNqKenb2r)
 
 
 ## **Profile Views:**<br>
 
-Everytime someone new visits my ReadMe Profile:
+Profile views since last update:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wrathxz.wrathxz)
 
 <br />
 
 ## My Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wrathxz&show_icons=true&theme=gotham" alt="wrathxz" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wrathxz&show_icons=true&theme=gotham" alt="Hydros0" />
