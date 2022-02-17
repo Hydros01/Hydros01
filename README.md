@@ -29,7 +29,7 @@ For inquries, you can reach me via:
 
 Profile views since last update:
 
-![](https://visitor-badge.glitch.me/badge?page_id=wrathxz.wrathxz)
+![](https://visitor-badge.glitch.me/badge?page_id=Hydros0.Hydros0)
 
 <br />
 
