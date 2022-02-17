@@ -34,4 +34,4 @@ Profile views since last update:
 <br />
 
 ## My Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wrathxz&show_icons=true&theme=gotham" alt="Hydros0" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros0&show_icons=true&theme=gotham" alt="Hydros0" />
