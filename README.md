@@ -1,8 +1,8 @@
 # Hey, I'm "Hydro. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<br>
+
 **Owner and Head Developer | @SentryCraft**
 <br>
-Avaliable for Comission.
+Avaliable for comission; plugins, cores, etc...
 
 ## **Join SentryCraft:**<br>
 SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**
@@ -33,8 +33,8 @@ YouTube:
 <br>
 Twitch: 
 
-## Support __COMING SOON__ client:
-__ client is a hacked client for **`Minecraft: Bedrock Edition`**.
+## Support DerangedClient:
+DerangedClient is a hacked client for **`Minecraft: Bedrock Edition`**.
 <br>
 <br>
 **Project start date**: 2022-03-18
