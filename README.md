@@ -1,9 +1,12 @@
-# Hey, I'm "Hydro. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>
-**Owner and Head Developer | @SentryCraft**<br>
+# Hey, I'm "Hydro. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<br>
+**Owner and Head Developer | @SentryCraft**
+<br>
 Avaliable for Comission.
 
 ## **Join SentryCraft:**<br>
-SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**<br>
+SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**
+<br>
 Support us below:
 
 <a href="https://discord.gg/kaNqKenb2r">
@@ -12,7 +15,8 @@ Support us below:
 <a href="https://twitter.com/SentryCraft">
   <img align="left" alt="SentryCraft | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<br><br>
+<br>
+<br>
 
 ## About Me
 I'm a self-taught programmer, and I started sometime in 2020. Since then, I've been working hard and have maintained a passion for game/web development and design. 
@@ -22,14 +26,32 @@ I'm a self-taught programmer, and I started sometime in 2020. Since then, I've b
 For inquries, you can reach me via:
 - [![chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/Z89zWJwn6b)
 
-
-## **Profile Views:**<br>
-
-Profile views since last update:
-
-![](https://visitor-badge.glitch.me/badge?page_id=Hydros01.Hydros01)
-
 <br />
 
-## My Github Stats
+## My Channels:
+YouTube:
+<br>
+Twitch: 
+
+## Support __COMING SOON__ client:
+__ client is a hacked client for **`Minecraft: Bedrock Edition`**.
+<br>
+<br>
+**Project start date**: 2022-03-18
+<br>
+**Release date**: 2022-??-??
+<br>
+<br>
+Developed by `Hydros01`, the client is extremely advanced and has many configurable options. 
+<br>
+The client is currently private, and may be released to public in the future.
+<br>
+<br>
+It is suggested to `NOT` use this client on servers; hacks may result in a ban.
+<br>
+However, the client is nearly impossible to detect unless you're using more obvious hacks.
+<br>
+If you'd like to gain potential access to this client, `Hydro#2255`|`Mystery#0057` on Discord.
+
+## General Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros01&show_icons=true&theme=gotham" alt="Hydros01" />
