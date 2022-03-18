@@ -15,23 +15,21 @@ Support us below:
 <br><br>
 
 ## About Me
-I'm a self-taught PHP developer, and I started sometime in 2020. Since then, I've been working hard and have maintained a passion for game/web development and design. 
+I'm a self-taught programmer, and I started sometime in 2020. Since then, I've been working hard and have maintained a passion for game/web development and design. 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 For inquries, you can reach me via:
-
-- [email](mailto:atlzstone@gmail.com)
-- [![chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/kaNqKenb2r)
+- [![chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/Z89zWJwn6b)
 
 
 ## **Profile Views:**<br>
 
 Profile views since last update:
 
-![](https://visitor-badge.glitch.me/badge?page_id=Hydros0.Hydros0)
+![](https://visitor-badge.glitch.me/badge?page_id=Hydros01.Hydros01)
 
 <br />
 
 ## My Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros0&show_icons=true&theme=gotham" alt="Hydros0" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros0&show_icons=true&theme=gotham" alt="Hydros01" />
