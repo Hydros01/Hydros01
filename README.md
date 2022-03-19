@@ -51,7 +51,7 @@ It is suggested to `NOT` use this client on servers; hacks may result in a ban.
 <br>
 However, the client is nearly impossible to detect unless you're using more obvious hacks.
 <br>
-If you'd like to gain potential access to this client, `Hydro#2255`|`Mystery#0057` on Discord.
+If you'd like to gain potential access to this client, `Hydro#2255` on Discord.
 
 ## General Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros01&show_icons=true&theme=gotham" alt="Hydros01" />
