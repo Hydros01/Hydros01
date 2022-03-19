@@ -5,7 +5,7 @@
 Avaliable for comission; plugins, cores, etc...
 
 ## **Join SentryCraft:**<br>
-SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**
+SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**.
 <br>
 Support us below:
 
@@ -55,3 +55,5 @@ If you'd like to gain potential access to this client, `Hydro#2255`|`Mystery#005
 
 ## General Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros01&show_icons=true&theme=gotham" alt="Hydros01" />
+
+<h2 align="right"> My Languages and Programs: </h2>
