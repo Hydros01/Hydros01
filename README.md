@@ -17,9 +17,9 @@ Support us below:
 </a>
 <a href="https://www.youtube.com/channel/UCjup3TirpdJMoM9zwgzWn1A">
   <img align"left" alt="SentryCraft | YouTube" width="22px" src="https://raw.githubusercontent.com/Hydros01/Hydros01/master/assets/youtube.svg" />
-</a>
+</a>ㅤ
 <a href="https://github.com/SentryCraft">
-  <img align"left" alt="SentryCraft | YouTube" width="22px" src="https://raw.githubusercontent.com/Hydros01/Hydros01/master/assets/github.svg" />
+  <img align"left" alt="SentryCraft | Github" width="22px" src="https://raw.githubusercontent.com/Hydros01/Hydros01/master/assets/github.svg" />
 </a>
 <br>
 <br>
