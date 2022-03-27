@@ -10,10 +10,16 @@ SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft
 Support us below:
 
 <a href="https://discord.gg/kaNqKenb2r">
-  <img align="left" alt="SentryCraft Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="SentryCraft | Discord" width="22px" src="https://raw.githubusercontent.com/Hydros01/Hydros01/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/SentryCraft">
-  <img align="left" alt="SentryCraft | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="SentryCraft | Twitter" width="22px" src="https://raw.githubusercontent.com/Hydros01/Hydros01/master/assets/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCjup3TirpdJMoM9zwgzWn1A">
+  <img align"left" alt="SentryCraft | YouTube" width="22px" src="https://raw.githubusercontent.com/Hydros01/Hydros01/master/assets/youtube.svg" />
+</a>
+<a href="https://github.com/SentryCraft">
+  <img align"left" alt="SentryCraft | YouTube" width="22px" src="https://raw.githubusercontent.com/Hydros01/Hydros01/master/assets/github.svg" />
 </a>
 <br>
 <br>
@@ -42,7 +48,7 @@ DerangedClient is a hacked client for **`Minecraft: Bedrock Edition`**.
 **Release date**: 2022-??-??
 <br>
 <br>
-Developed by `Hydros01`, the client is extremely advanced and has many configurable options. 
+Developed by Hydro, the client is extremely advanced and has many configurable options. 
 <br>
 The client is currently private, and may be released to public in the future.
 <br>
