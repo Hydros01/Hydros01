@@ -47,10 +47,6 @@ Developed by `Hydros01`, the client is extremely advanced and has many configura
 The client is currently private, and may be released to public in the future.
 <br>
 <br>
-It is suggested to `NOT` use this client on servers; hacks may result in a ban.
-<br>
-However, the client is nearly impossible to detect unless you're using more obvious hacks.
-<br>
 If you'd like to gain potential access to this client, `Hydro#2255` on Discord.
 
 ## General Github Stats
