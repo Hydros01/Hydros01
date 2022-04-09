@@ -39,22 +39,6 @@ YouTube:
 <br>
 Twitch: 
 
-## Support DerangedClient:
-DerangedClient is a hacked client for **`Minecraft: Bedrock Edition`**.
-<br>
-<br>
-**Project start date**: 2022-03-18
-<br>
-**Release date**: 2022-??-??
-<br>
-<br>
-Developed by Hydro, the client is extremely advanced and has many configurable options. 
-<br>
-The client is currently private, and may be released to public in the future.
-<br>
-<br>
-If you'd like to gain potential access to this client, `Hydro#2255` on Discord.
-
 ## General Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros01&show_icons=true&theme=gotham" alt="Hydros01" />
 
