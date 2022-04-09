@@ -25,9 +25,9 @@ Support us below:
 <br>
 
 ## About Me
-I'm a self-taught programmer, and I started sometime in 2020. Since then, I've been working hard and have maintained a passion for game/web development and design. 
+I'm a self-taught programmer, and I started sometime in 2018. Since then, I've been working hard and have maintained a passion for game/web development and design. 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="272" />
 
 For inquries, you can reach me via:
 - [![chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/Z89zWJwn6b)
@@ -35,9 +35,9 @@ For inquries, you can reach me via:
 <br />
 
 ## My Channels:
-YouTube:
+YouTube: Hydrwo ()
 <br>
-Twitch: 
+Twitch: Hydrwo ()
 
 ## General Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hydros01&show_icons=true&theme=gotham" alt="Hydros01" />
