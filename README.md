@@ -5,7 +5,7 @@
 Avaliable for comission; plugins, cores, etc...
 
 ## **Join SentryCraft:**<br>
-SentryCraft is an advanced Op Prisons/Factions server developed for **`Minecraft: Bedrock Edition`**.
+SentryCraft is a server developed for **`Minecraft: Java Edition`**.
 <br>
 Support us below:
 
